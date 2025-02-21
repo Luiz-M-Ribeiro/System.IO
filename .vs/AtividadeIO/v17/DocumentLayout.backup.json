@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luric\\source\\repos\\AtividadeIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF7B7BF-67C7-4B2E-B686-D730477C1FFA}|AtividadeIO\\AtividadeIO.csproj|c:\\users\\luric\\source\\repos\\atividadeio\\atividadeio\\criarpasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF7B7BF-67C7-4B2E-B686-D730477C1FFA}|AtividadeIO\\AtividadeIO.csproj|solutionrelative:atividadeio\\criarpasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CriarPasta.cs",
+              "DocumentMoniker": "C:\\Users\\luric\\source\\repos\\AtividadeIO\\AtividadeIO\\CriarPasta.cs",
+              "RelativeDocumentMoniker": "AtividadeIO\\CriarPasta.cs",
+              "ToolTip": "C:\\Users\\luric\\source\\repos\\AtividadeIO\\AtividadeIO\\CriarPasta.cs",
+              "RelativeToolTip": "AtividadeIO\\CriarPasta.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:32:54.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

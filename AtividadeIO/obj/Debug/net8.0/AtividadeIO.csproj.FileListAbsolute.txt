@@ -1,0 +1,14 @@
+C:\Users\luric\source\repos\AtividadeIO\AtividadeIO\bin\Debug\net8.0\AtividadeIO.exe
+C:\Users\luric\source\repos\AtividadeIO\AtividadeIO\bin\Debug\net8.0\AtividadeIO.deps.json
+C:\Users\luric\source\repos\AtividadeIO\AtividadeIO\bin\Debug\net8.0\AtividadeIO.runtimeconfig.json
+C:\Users\luric\source\repos\AtividadeIO\AtividadeIO\bin\Debug\net8.0\AtividadeIO.dll
+C:\Users\luric\source\repos\AtividadeIO\AtividadeIO\bin\Debug\net8.0\AtividadeIO.pdb
+C:\Users\luric\source\repos\AtividadeIO\AtividadeIO\obj\Debug\net8.0\AtividadeIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luric\source\repos\AtividadeIO\AtividadeIO\obj\Debug\net8.0\AtividadeIO.AssemblyInfoInputs.cache
+C:\Users\luric\source\repos\AtividadeIO\AtividadeIO\obj\Debug\net8.0\AtividadeIO.AssemblyInfo.cs
+C:\Users\luric\source\repos\AtividadeIO\AtividadeIO\obj\Debug\net8.0\AtividadeIO.csproj.CoreCompileInputs.cache
+C:\Users\luric\source\repos\AtividadeIO\AtividadeIO\obj\Debug\net8.0\AtividadeIO.dll
+C:\Users\luric\source\repos\AtividadeIO\AtividadeIO\obj\Debug\net8.0\refint\AtividadeIO.dll
+C:\Users\luric\source\repos\AtividadeIO\AtividadeIO\obj\Debug\net8.0\AtividadeIO.pdb
+C:\Users\luric\source\repos\AtividadeIO\AtividadeIO\obj\Debug\net8.0\AtividadeIO.genruntimeconfig.cache
+C:\Users\luric\source\repos\AtividadeIO\AtividadeIO\obj\Debug\net8.0\ref\AtividadeIO.dll
